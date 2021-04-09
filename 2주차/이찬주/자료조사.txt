@@ -1,9 +1,0 @@
-Dataset from github
-
-https://github.com/cabani/MaskedFace-Net
-
-////////
-
-용량 적은 dataset
-
-https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset

@@ -1,0 +1,5 @@
+마스크 감지 Github(참고)
+
+- https://github.com/chandrikadeb7/Face-Mask-Detection
+- https://www.youtube.com/watch?v=AAkNyZlUae0
+- https://github.com/WonJunPark/mask_detection
